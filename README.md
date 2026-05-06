@@ -100,6 +100,9 @@ git commit -m "Added new feature"
 
 # Push
 git push origin feature-name
+
+Live
+https://mern-blog-main-jsa8.onrender.com
 📜 License
 
 This project is licensed under the MIT License.
